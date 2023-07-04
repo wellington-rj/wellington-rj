@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wellington-rj
+- 👋 Hi, I’m wellington
 - 👀 I’m interested in programação
 - 🌱 I’m currently learning linguagem c++
 
