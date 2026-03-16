@@ -8,13 +8,13 @@
 
 ### Tecnologias que eu uso no dia a dia
 
-<div style="display: inline_block"><br>
-  <!-- Usando height="28" para igualar todos -->
-  <img align="center" alt="HTML5" height="28" src="https://img.shields.io"/>
-  <img align="center" alt="JavaScript" height="28" src="https://img.shields.io"/>
-  <img align="center" alt="Cypress" height="28" src="https://img.shields.io"/>
-  <img align="center" alt="Postman" height="28" src="https://img.shields.io"/>
-  <img align="center" alt="Jira" height="28" src="https://img.shields.io"/>
+<div align="center">
+  <img src="https://img.shields.io" height="35" alt="HTML5" />
+  <img src="https://img.shields.io" height="35" alt="JavaScript" />
+  <img src="https://img.shields.io" height="35" alt="Cypress" />
+  <img src="https://img.shields.io" height="35" alt="Postman" />
+  <img src="https://img.shields.io" height="35" alt="Jira" />
 </div>
+
 Apaixonado pela tecnologia!
 
