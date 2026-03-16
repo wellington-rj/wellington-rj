@@ -9,11 +9,12 @@
 ### Tecnologias que eu uso no dia a dia
 
 <div style="display: inline_block"><br>
-<img aling="center" atl="html5" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*CkYF8pNwANy6rgbp.png"/>
-<img aling="center" atl="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img aling="center" atl="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-
-</div><br/>
+  <!-- Usando height="28" para igualar todos -->
+  <img align="center" alt="HTML5" height="28" src="https://img.shields.io"/>
+  <img align="center" alt="JavaScript" height="28" src="https://img.shields.io"/>
+  <img align="center" alt="Cypress" height="28" src="https://img.shields.io"/>
+  <img align="center" alt="Postman" height="28" src="https://img.shields.io"/>
+  <img align="center" alt="Jira" height="28" src="https://img.shields.io"/>
+</div>
 Apaixonado pela tecnologia!
 
